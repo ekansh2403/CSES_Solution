@@ -1,2 +1,2 @@
 # CSES_Solution
-In this repo i am putting my CSES solution in C++
+In this repository I am putting my CSES solution in C++
